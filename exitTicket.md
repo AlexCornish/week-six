@@ -1,0 +1,1 @@
+- I think that I have definitely improved over the course of this class, even though I'm not that good at 
