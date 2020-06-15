@@ -8,3 +8,5 @@
 ### Voyant
 - Voyant was used without a hitch to make the corpus that is present in the middle of the poster. It was also used to get the information for the bottom part which details the most commonly stolen goods, or at least the most commonly mentioned goods, which given the context they are presented in, we can assume are stolen. This was done by a slightly laborious tactic of editing the word filter like was done in the corpus for week 4, until all that was left at least in the top 20+ most common words were all items that could feasibly have been stolen by a highway robber, then I extracted that information and classified it manually into 4 categories, money, jewellry, alcohol, and clothing. This information was then put into tables using google docs, and then snapshots of these tables were taken to add to the poster. 
 
+### Technical / Human Failures:
+- Fortunately aside from the aforementioned API problem, I experienced no such problems this week. :) A good note to end on. 
